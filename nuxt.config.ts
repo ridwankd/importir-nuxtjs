@@ -2,7 +2,7 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
   app: { head: { title: "IMPORTIR.COM" } },
-  modules: ["@nuxt/ui", "nuxt-icon", "@nuxt/content"],
+  modules: ["@nuxt/ui", "nuxt-icon", "@nuxt/content", "@nuxthq/studio"],
 
   // DESIGN
   tailwindcss: { viewer: false },
