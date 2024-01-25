@@ -10,4 +10,10 @@ export default defineAppConfig({
       background: "bg-slate-600",
     },
   },
+
+  nuxtIcon: {
+    iconifyApiOptions: {
+      url: "",
+    },
+  },
 });

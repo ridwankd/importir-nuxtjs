@@ -11,6 +11,7 @@ Perlu Jadi Member
 #subheadline
 Saat ini importir bisa impor dari China ke Indonesia TANPA PERLU JADI MEMBER, Selain itu kami juga bisa bantu CARI Produk Laris, Cari Supplier dan Bantu Langsung Impor buat kamu yang sudah punya produk
 
+![111.png](/111.png)
 ::
 
 ::lp-content
@@ -41,7 +42,7 @@ di Tahun 2024 ini, Importir mau bantu kamu pebisnis baru untuk impor tanpa perlu
 
 <b>Bukan cuman itu,</b>
 
-1 . Kalau kamu <b>Belum Punya Produk</b>, Bisa kami bantu cariin juga🤩
+1 . Kalau kamu <b>Belum Punya Produk</b>, Bisa kami bantu cariin ju``ga🤩
 
 2 . Kalau <b>Sudah Punya Produk</b>, kami bantu cariin supplier yang cocok dan 3 rekomendasi produk🤑
 
